@@ -1,0 +1,770 @@
+﻿Driver,Vehicle Type,Contract Type,Driver Group,Grade,1st Delivery Success % Excluding Internal Shops only,Attend Days,Call customer before delivery rate(%),COD Remittance Rate(%),Confirm delivery properly rate(%),Daily Reject Fee Collection Order,Delivery attempt rate(%),Delivery Success Rate (VN),Delivery Success Rate (VN) with all Exclusions,Metric Penalty,Mix Success Rate （VN）,New Attendance Rate,Number of 1st Delivery Success Excluding Internal Shops only,Number of Delivery Parcels Assigned (VN) with all Exclusions,Number of parcels assigned (VN),Number of Parcels Delivered (VN) Excluding Internal Shops only,Number of Parcels Delivered (VN) with all Exclusions,Number of parcels delivered to SP,Number of Parcels delivered(1 TO as 1 Parcel),Number of Parcels delivered(individual count in order level),Number of parcels on-hold (1 TO as 1 Parcel),Number of Parcels Onhold (VN) with all Exclusions,SLA Achievement Rate(%),% Lấy + Giao Thành Công,Attendance rate,Bonus,Depreciation,Discipline,Tỷ lệ thành công Lấy + Giao
+[129593]Lưu Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,81.8182%,0%,0%,0,30.5556%,30.56%,30.56%,0,30.56%,0%,11,36,36,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[129552]Dương Chí Tiến,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129551]Nguyễn Văn Học,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129550]Hồ Ngọc Thủy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129549]Trần Hoàng Gia Khánh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129548]Lợi Hoàng Minh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129547]Trần Lê Duy Vũ,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129546]Nguyễn Hoàng Hòa,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129545]Lê Chi Huynh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129367]Huỳnh Sơn,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,45.4545%,45.45%,45.45%,0,45.45%,0%,5,11,11,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[129363]Lâm Trần Anh Hào,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129362]Phạm Lê Đắc Anh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129361]Trần Tuấn Kiệt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129360]Nguyễn Hữu Hải,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129359]Nguyễn Văn Hạnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,70.5882%,0%,0%,0,94.4444%,94.44%,94.44%,0,94.44%,0%,17,18,18,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[129358]Lê Thái Vinh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129357]Phan Thị Thiên Nhi,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129356]Nguyễn Hữu Đại,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,88.8889%,0%,0%,0,64.2857%,64.29%,64.29%,0,64.29%,0%,9,14,14,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[129355]Thạch Minh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129106]Phạm Tuấn An,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,76.4706%,0%,0%,0,53.125%,53.13%,53.13%,0,53.13%,0%,17,32,32,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[129105]Trần Hưng Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[129104]Nguyễn Khánh Thuỵ,2WH_SDD,Inhouse-Contractor,HCM FTE,,92.31%,0,100%,0%,0%,0,70%,65%,65%,0,65%,0%,12,20,20,13,13,0,13,13,1,2,0%,0,0%,0VND,0,0,0
+[129103]Trần Thái Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,28,28,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128929]Nguyễn Tấn Lộc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128928]Phạm Khánh Hưng,2WH_SDD,Part time SDD_18h,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128927]Trương Lâm Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128926]Trần Lâm Khánh Việt,2WH_SDD,Part time SDD_18h,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128925]Nguyễn Thanh Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,83.3333%,0%,0%,0,48%,48%,48%,0,48%,0%,12,25,25,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[128924]Thóng Hưng Long,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,42.11%,0%,0,33,33,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128923]Võ Hoàng Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,62.5%,0%,0%,0,40%,40%,40%,0,40%,0%,8,20,20,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[128922]Wong Thiệu Quang,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,88.2353%,0%,0%,0,41.4634%,41.46%,41.46%,0,41.46%,0%,17,41,41,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[128840]Phạm Hữu Ngọc Hà,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,45.4545%,0%,0%,0,37.5%,34.38%,34.38%,0,34.38%,0%,11,32,32,11,11,0,11,11,1,1,0%,0,0%,0VND,0,0,0
+[128817]Phan Nguyễn Nhật Quỳnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128729]Liêu Hồ Vũ Khánh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128728]Nguyễn Ngọc Hiệp,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128597]Châu Hoài Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,64.7059%,0%,0%,0,90%,85%,85%,0,85%,0%,17,20,20,17,17,0,17,17,1,1,0%,0,0%,0VND,0,0,0
+[128596]Ngô Minh Tài,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128595]Ngô Hòa Thuận,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,68.1818%,0%,0%,0,78.5714%,78.57%,78.57%,0,78.57%,0%,22,28,28,22,22,0,22,22,0,0,0%,0,0%,0VND,0,0,0
+[128594]Trần Khánh Quang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128463]Nguyễn Thành Phú,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128462]Phạm Linh Trung,2WH_SDD,Inhouse-Contractor,HCM FTE,,91.67%,0,83.3333%,0%,0%,0,63.1579%,63.16%,63.16%,0,63.16%,0%,11,19,19,12,12,0,12,12,0,1,0%,0,0%,0VND,0,0,0
+[128461]Lê Hoàng Khôi,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,3.4483%,3.45%,3.45%,0,3.45%,0%,1,29,29,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[128372]Đỗ Gia Kiệt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,3.125%,0%,0%,0,32.65%,0%,0,32,32,0,0,0,0,0,1,1,0%,0,0%,0VND,0,0,0
+[128371]Tô Tấn Tới,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128370]Ngô Anh Triết,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128184]Nguyễn Huy Bảo,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,87.5%,0%,0%,0,30.7692%,30.77%,30.77%,0,30.77%,0%,8,26,26,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[128153]Nguyễn Trần Phương Thanh,2WH_SDD,Part time SDD_18h,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128151]Nguyễn Trung Hiền,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[128150]Lê Hữu Cường,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,44.4444%,0%,0%,0,50%,50%,50%,0,50%,0%,9,18,18,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[127919]Lê Minh Thông,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,40.7407%,0%,0%,0,90%,90%,90%,0,90%,0%,27,30,30,27,27,0,27,27,0,0,0%,0,0%,0VND,0,0,0
+[127903]Đặng Thị Kim Quyên,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127902]Nguyễn Thanh Sơn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127901]Diệp Chí Lương,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127900]Nguyễn Thị Hoàng Lan,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,85.7143%,85.71%,85.71%,0,85.71%,0%,12,14,14,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[127899]Lê Ngọc An,2WH_SDD,Part time SDD_18h,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127898]Nguyễn Minh Sang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127897]Võ Ngọc Phú,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127896]Căn Thái Hoạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,72.7273%,0%,0%,0,45.8333%,45.83%,45.83%,0,45.83%,0%,11,24,24,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[127792]Phạm Thọ,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127789]Nguyễn Đức Luân,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127788]Đinh Hoàng Quang Minh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127769]Trần Thanh Nhã,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127768]Lê Hoàng Lộc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127767]Đinh Văn Tú,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,66.6667%,0%,0%,0,53.3333%,53.33%,53.33%,0,53.33%,0%,24,45,45,24,24,0,24,24,0,0,0%,0,0%,0VND,0,0,0
+[127766]Dương Minh Trung,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127765]Trần Phi Líp,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127637]Nguyễn Văn Chiến,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127635]Trần Anh Dũng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127634]Phan Thanh Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127633]Trần Minh Thiên Tường,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127632]Bùi Phước Quí,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,72.7273%,0%,0%,0,78.5714%,78.57%,78.57%,0,78.57%,0%,11,14,14,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[127506]Nguyễn Hữu Vinh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127505]La Tuấn Vĩ,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127504]Nguyễn Văn Vàng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127503]Trương Tuấn Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127464]Nguyễn Minh Tiến,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127373]Trần Tuấn Kiệt,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127372]Đào Duy Khang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127371]Vũ Thanh Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127370]Cao Anh Tuấn Khanh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,42.8571%,42.86%,42.86%,0,42.86%,0%,6,14,14,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[127369]Nguyễn Minh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,93.75%,0%,0%,0,64%,64%,64%,0,64%,0%,16,25,25,16,16,0,16,16,0,0,0%,0,0%,0VND,0,0,0
+[127368]Trương Hoàng Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127367]Trần Quang Sáng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,94.7368%,94.74%,94.74%,0,94.74%,0%,18,19,19,18,18,0,18,18,0,0,0%,0,0%,0VND,0,0,0
+[127165]Nguyễn Duy Tân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127164]Nguyễn Văn Đông,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,83.3333%,0%,0%,0,100%,100%,100%,0,88.89%,0%,12,12,12,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[127163]Nguyễn Văn Dễ,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127162]Trần Thiện Trung,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,71.4286%,0%,0%,0,94.1176%,82.35%,82.35%,0,82.35%,0%,14,17,17,14,14,0,14,14,2,2,0%,0,0%,0VND,0,0,0
+[127161]Lê Minh Tiến,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127160]Trần Vĩnh Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,46.6667%,46.67%,46.67%,0,46.67%,0%,7,15,15,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[127159]Vũ Huy Tùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127158]Hoàng Hữu Anh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127157]Lê Quốc Bảo,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,62.5%,0%,0%,0,94.1176%,94.12%,94.12%,0,94.12%,0%,16,17,17,16,16,0,16,16,0,0,0%,0,0%,0VND,0,0,0
+[127144]Dương Thế Hải,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,81.25%,0%,0%,0,80.9524%,76.19%,76.19%,0,76.19%,0%,16,21,21,16,16,0,16,16,1,1,0%,0,0%,0VND,0,0,0
+[127143]Võ Thành Luân,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,75%,0%,0%,0,53.3333%,53.33%,53.33%,0,53.33%,0%,8,15,15,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[127142]Vũ Trung Hiếu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,94.59%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127118]Triệu Phúc Thịnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127092]Nguyễn Quốc Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127073]Nguyễn Thị Hoàng Lan,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127072]Lưu Lê Trường Sơn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127062]Ngô Tiến Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127061]Hoàng Công Khánh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[127060]Trần Phan Thế Đông,2WH_SDD,Inhouse-Contractor,HCM FTE,,91.67%,0,91.6667%,0%,0%,0,100%,92.31%,92.31%,0,92.31%,0%,11,13,13,12,12,0,12,12,1,1,0%,0,0%,0VND,0,0,0
+[127059]Trần Tuấn Cảnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126961]Đoàn Phúc Lâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126960]Vũ Thái Ngọc Duy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126959]Lê Văn Cương,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,85.7143%,0%,0%,0,80.7692%,80.77%,80.77%,0,80.77%,0%,21,26,26,21,21,0,21,21,0,0,0%,0,0%,0VND,0,0,0
+[126958]Bùi Thiện Nhân,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,78.5714%,0%,0%,0,80%,70%,70%,0,70%,0%,14,20,20,14,14,0,14,14,2,2,0%,0,0%,0VND,0,0,0
+[126957]Nguyễn Bảo Châu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126956]Trần Thế Anh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,84.2105%,0%,0%,0,100%,95%,95%,0,96.3%,0%,19,20,20,19,19,0,19,19,1,1,0%,0,0%,0VND,0,0,0
+[126955]Lê Minh Nhựt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,13.3333%,13.33%,13.33%,0,13.33%,0%,2,15,15,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[126954]Đặng Ngọc Hoàng Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126953]Lý Thanh Chiến,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126952]Đoàn Phước,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,58.3333%,0%,0%,0,92.3077%,92.31%,92.31%,0,92.31%,0%,12,13,13,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[126951]Lương Quốc Trung,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126950]Châu Bội Thành,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126949]Phan Anh Tú,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,30.303%,30.3%,30.3%,0,55.36%,0%,10,33,33,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[126790]Nguyễn Trương Anh Tú,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126789]Trần Minh Thuận,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126788]Võ Hoàng Thông,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126787]Trần Thái Tiến Trung,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126786]Đỗ Vỹ Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126785]Nguyễn Kim Đức,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126784]Nguyễn Vĩnh Thành,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126783]Nguyễn Văn An,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126620]Phạm Hùng Cường,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,40%,0%,0%,0,40%,40%,40%,0,40%,0%,10,25,25,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[126619]Nguyễn Tấn Lộc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126618]Lê Hoàng Bảo Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126617]Danh Nhật Trường,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126616]Huỳnh Thanh Tân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126615]Trần Gia Bảo,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,47.619%,47.62%,47.62%,0,47.62%,0%,10,21,21,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[126591]Phan Trọng Duy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126590]Lê Gia Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126325]Nguyễn Vinh Hiển,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126324]Đinh Nguyễn Thành Danh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,71.4286%,0%,0%,0,50%,46.67%,46.67%,0,46.67%,0%,14,30,30,14,14,0,14,14,1,1,0%,0,0%,0VND,0,0,0
+[126323]Nguyễn chí dũng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,83.3333%,0%,0%,0,37.5%,37.5%,37.5%,0,37.5%,0%,12,32,32,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[126322]Lê Ngọc Trương,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,85.7143%,0%,0%,0,53.8462%,53.85%,53.85%,0,53.85%,0%,7,13,13,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[126200]Đặng Đỗ Trung Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126199]Phạm Văn Thành,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126198]Nguyễn Hoàng Định,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126186]Trần Phi Bằng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126110]Nguyễn Bra Xin,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126072]Nguyễn Hữu Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,87.5%,0%,0%,0,100%,100%,100%,0,100%,0%,8,8,8,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[126071]Trần Quang Khởi,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,73.3333%,0%,0%,0,78.9474%,78.95%,78.95%,0,78.72%,0%,15,19,19,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[126042]Trần Văn Hậu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[126041]Hồ Văn Út Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,85.7143%,0%,0%,0,29.4118%,20.59%,20.59%,0,20.59%,0%,7,34,34,7,7,0,7,7,3,3,0%,0,0%,0VND,0,0,0
+[126040]Dương Nguyễn Ngân Giang,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,4.1667%,4.17%,4.17%,0,4.17%,0%,1,24,24,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[126039]Trần Quang Ngọc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125996]Nguyễn Ngọc Tú,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125887]Trần Anh Dũng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125886]Dương Nguyễn Ngân Giang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125885]Trần Quang Khởi,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125877]Trần Thanh Tùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125876]Lê Chiêu Đoan,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,83.3333%,0%,0%,0,31.5789%,31.58%,31.58%,0,72.22%,0%,6,19,19,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[125875]Trần Hoàng Thiên,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,83.78%,0%,0,5,5,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125874]Lê Hoàng Thắng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125873]Lê Hà Minh An,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125872]Tạ Thiện Tài,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125871]Danh Tiến Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,3.8462%,3.85%,3.85%,0,30.56%,0%,1,26,26,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[125669]Vũ Nguyễn Thế Sơn,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,86.6667%,0%,0%,0,65.2174%,65.22%,65.22%,0,65.22%,0%,15,23,23,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[125505]Trần Hoàng Nguyên,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125504]Lăng Văn Thành,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125503]Phan Nguyên,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125502]Nguyễn Thế Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125501]Trương Minh Thái,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125500]Hứa Minh Tiến,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125244]Tiêu nam lợi,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125214]Nguyễn Hoài Khương,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125213]Văn Huy Lượng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125177]Huỳnh Tấn Huệ Hải,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,76.4706%,0%,0%,0,100%,94.44%,94.44%,0,94.44%,0%,17,18,18,17,17,0,17,17,1,1,0%,0,0%,0VND,0,0,0
+[125096]Trần Anh Tuấn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125095]Nguyễn Hoàng Phúc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125094]Nguyễn Công Danh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[125093]Phan Nguyễn Nhật Quỳnh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124859]Trần Văn Tùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,23,23,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124858]Lê Công Danh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124857]Hồ Minh Toại,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124856]Lưu Tấn Thành,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124855]Đặng Hoàng Vinh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124854]Nguyễn Hoàng Thiện,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124853]Phạm Văn Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124680]Lê Hoàng Huy Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124679]Nghiêm Đức Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,55.5556%,0%,0%,0,30%,30%,30%,0,30%,0%,9,30,30,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[124678]Nguyễn Trung Hiếu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,52.5%,0%,0,19,19,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124471]Trần Văn Tùng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124470]Nguyễn Xuân Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124469]Ngô Diên Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124306]Nguyễn Hoàng Tùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124305]Nguyễn Quang Vinh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124304]Nguyễn Tấn Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124303]Lâm Quốc Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,76.9231%,0%,0%,0,39.3939%,39.39%,39.39%,0,39.39%,0%,13,33,33,13,13,0,13,13,0,0,0%,0,0%,0VND,0,0,0
+[124302]Nguyễn Hà Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,81.8182%,0%,0%,0,91.6667%,91.67%,91.67%,0,91.67%,0%,11,12,12,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[124226]Đoàn Long,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124225]La Vạn An,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124221]Lê Hoàng Bảo Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[124220]Bùi Nguyễn Thành Nhân,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,83.3333%,0%,0%,0,14.6341%,14.63%,14.63%,0,14.63%,0%,6,41,41,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[124000]Trần Thị Tuyết Lan,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123999]Nguyễn Xuân Hậu,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123998]Trần Tuấn Bảo,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123997]Nguyễn Hải Đăng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123996]Nguyễn Phùng Bảo Khoa,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123984]Nguyễn Trung Hưng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123983]Nguyễn Mạnh Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123982]Trần Thành Thắng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123981]Trần Đức Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123980]Nguyễn Ngô Anh Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123926]Võ Anh Hào,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,66.6667%,0%,0%,0,92.3077%,92.31%,92.31%,0,92.31%,0%,12,13,13,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[123889]Nguyễn Đỗ Minh Thiện,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123880]Võ Văn Tài,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123879]Phan Trung Hiếu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123878]Trần Mạnh Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,23.5294%,0%,0%,0,100%,100%,100%,0,100%,0%,17,17,17,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[123877]Nguyễn Lê Minh Khôi,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,66.6667%,0%,0%,0,25.9259%,22.22%,22.22%,0,22.22%,0%,6,27,27,6,6,0,6,6,1,1,0%,0,0%,0VND,0,0,0
+[123876]Trịnh Xuân Khải,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123875]Văn Công Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,84.6154%,0%,0%,0,52%,52%,52%,0,75.86%,0%,13,25,25,13,13,0,13,13,0,0,0%,0,0%,0VND,0,0,0
+[123874]Trương Hoàng Quân,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,0%,0%,0%,0,13.3333%,13.33%,13.33%,0,13.33%,0%,2,15,15,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[123873]Đỗ Quang Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123872]Lâm Tấn Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,90.9091%,0%,0%,0,27.5%,27.5%,27.5%,0,70%,0%,11,40,40,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[123871]Lê Hoàng Phước,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123870]Trần Văn Thương,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,50%,0%,0%,0,4.7619%,4.76%,4.76%,0,4.76%,0%,2,42,42,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[123869]Võ Thanh Sang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,21.28%,0%,0,37,37,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123868]Lê Nguyễn An Bình,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123764]Tôn Nguyễn Minh Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123763]Nguyễn Hoài An,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,29,29,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123743]Phạm Tuấn An,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123742]Nguyễn Thành Sang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123741]Nguyễn Đức Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123740]Nguyễn Anh Long,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123739]Đinh Ngân Hào,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123738]Bùi Chí Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123737]Nguyễn Quốc Hậu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123659]Lê Phi Trọng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,85.7143%,0%,0%,0,63.6364%,63.64%,63.64%,0,63.64%,0%,14,22,22,14,14,0,14,14,0,0,0%,0,0%,0VND,0,0,0
+[123656]Lê Minh Quí,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123655]Võ Tấn Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,82.3529%,0%,0%,0,54.8387%,54.84%,54.84%,0,54.84%,0%,17,31,31,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[123654]Lý Vĩnh Quang,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,69.2308%,0%,0%,0,36.1111%,36.11%,36.11%,0,36.11%,0%,13,36,36,13,13,0,13,13,0,0,0%,0,0%,0VND,0,0,0
+[123653]Nin Tuấn Vinh,2WH_SDD,Inhouse-Contractor,HCM FTE,,92%,0,48%,0%,0%,0,49.0196%,49.02%,49.02%,0,49.02%,0%,23,51,51,25,25,0,25,25,0,2,0%,0,0%,0VND,0,0,0
+[123652]Trần Duy Hoàng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,30.51%,0%,0,41,41,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123651]Nguyễn Gia Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,77.7778%,0%,0%,0,100%,96.43%,96.43%,0,96.43%,0%,27,28,28,27,27,0,27,27,1,1,0%,0,0%,0VND,0,0,0
+[123650]Tăng Vĩ Kiệt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,84%,0%,0%,0,40%,38.46%,38.46%,0,56.04%,0%,25,65,65,25,25,0,25,25,1,1,0%,0,0%,0VND,0,0,0
+[123649]Đặng Hoàng Vũ,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,34.4828%,34.48%,34.48%,0,34.48%,0%,10,29,29,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[123563]Nguyễn Đức Anh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123559]Nguyễn Minh Nhật,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123558]Nguyễn thanh tuấn khang,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,22.9167%,22.92%,22.92%,0,22.92%,0%,11,48,48,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[123557]Võ thanh phong,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,53.33%,0%,0,33,33,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123556]Phạm Minh Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,57.1429%,0%,0%,0,36.8421%,36.84%,36.84%,0,75%,0%,7,19,19,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[123555]Trần Thanh Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123554]Lê Quang Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,41.1765%,0%,0%,0,42.5%,42.5%,42.5%,0,62.9%,0%,17,40,40,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[123408]Nguyễn Bá Anh Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,82.3529%,0%,0%,0,58.3333%,56.67%,56.67%,0,56.67%,0%,34,60,60,34,34,0,34,34,1,1,0%,0,0%,0VND,0,0,0
+[123399]Đỗ Vĩnh Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123398]Nguyễn Minh Trí,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123397]Trần Thanh Tân,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,93.3333%,0%,0%,0,51.6129%,48.39%,50%,0,48.39%,0%,15,30,31,15,15,0,15,15,1,0,0%,0,0%,0VND,0,0,0
+[123396]Trần Anh Nhựt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123395]Võ Hoàng Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,50%,0%,0%,0,27.2727%,27.27%,27.27%,0,27.27%,0%,6,22,22,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[123394]Nguyễn Văn Yến,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123364]Nguyễn Hữu Hải Linh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123360]Trần Lê Đức,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,70.5882%,0%,0%,0,78.2609%,73.91%,73.91%,0,91.55%,0%,17,23,23,17,17,0,17,17,1,1,0%,0,0%,0VND,0,0,0
+[123359]Nguyễn Phùng Bảo Khoa,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123358]Trần Hoài Thương,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123357]Nguyễn Ngọc Tân,2WH_SDD,Inhouse-Contractor,HCM FTE,,93.75%,0,53.125%,0%,0%,0,60.3448%,55.17%,55.17%,0,55.17%,0%,30,58,58,32,32,0,32,32,3,5,0%,0,0%,0VND,0,0,0
+[123356]Trần Minh Sang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123355]Lý Ngọc Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,65%,0%,0%,0,80%,80%,80%,0,84.62%,0%,20,25,25,20,20,0,20,20,0,0,0%,0,0%,0VND,0,0,0
+[123354]Phạm Nguyễn Hoàng Thịnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,87.5%,0%,0%,0,17.6471%,15.69%,15.69%,0,40.28%,0%,8,51,51,8,8,0,8,8,1,1,0%,0,0%,0VND,0,0,0
+[123352]Phan Nguyễn Trí Trường,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123351]Trần Công Hiếu,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123146]Triệu Phúc Thịnh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123142]Nguyễn Hoàng Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123141]Trần Hưng Long,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123140]Hà Trần Minh Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123139]Nguyễn Đỗ Toàn Thắng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123068]Lê Anh Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123067]Nguyễn Hữu Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123066]Nguyễn Ngọc Đăng Khoa,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123065]Lê Đức Trí,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123064]Phan Minh Danh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123063]Lê Phước Dũng Sĩ,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[123062]Cao Nguyễn Quang Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122903]Châu Quốc Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122872]Nguyễn Tuấn Anh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,89.2857%,0%,0%,0,69.0476%,66.67%,66.67%,0,77.78%,0%,28,42,42,28,28,0,28,28,1,1,0%,0,0%,0VND,0,0,0
+[122871]Nguyễn Hoàng Đông,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,8.3333%,0%,0%,0,0%,100%,0%,0,100%,0%,0,0,12,0,0,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[122870]Trần Vũ Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,85.7143%,0%,0%,0,25.9259%,25.93%,25.93%,0,61.02%,0%,7,27,27,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[122869]Dương Thành Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,50%,0%,0%,0,8%,8%,8%,0,49.23%,0%,2,25,25,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[122868]Bùi Phan Thanh Tín,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,71.4286%,0%,0%,0,21.875%,21.88%,21.88%,0,75.49%,0%,7,32,32,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[122867]Trần Minh Hải,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,83.3333%,0%,0%,0,90%,90%,90%,0,90%,0%,18,20,20,18,18,0,18,18,0,0,0%,0,0%,0VND,0,0,0
+[122866]Nguyễn Hiền Dinh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122865]Lê Thanh Lợi,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,46.6667%,0%,0%,0,42.8571%,42.86%,42.86%,0,62.96%,0%,15,35,35,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[122864]Phạm Anh Nghĩa,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122863]Ninh Nguyễn Trường Nam,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,13.5135%,13.51%,13.51%,0,41.82%,0%,5,37,37,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[122862]Thạch Chanh Đa,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,17.8571%,17.86%,17.86%,0,81.6%,0%,5,28,28,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[122861]Lương Hoàng Thế Quân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122860]Nguyễn Đức Khôi,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,23.08%,0%,0,60,60,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122859]Vũ Đức Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,12.5%,0%,0%,0,22.2222%,18.6%,2.78%,0,43.18%,0%,1,36,43,1,1,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[122825]Nguyễn Văn Sơn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122824]Nguyễn Cao Khoa,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122823]Ngô Quốc Hưng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122822]Cao Nguyễn Quang Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122674]Nguyễn Minh Hiếu,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122673]Nguyễn Công Bình,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122672]Thân Đăng Minh Đức,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122671]Nguyễn Tấn Sang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,97.87%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122670]Nguyễn Minh Trọng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,16.6667%,11.11%,11.11%,0,63.33%,0%,2,18,18,2,2,0,2,2,1,1,0%,0,0%,0VND,0,0,0
+[122669]Tăng Diệu Thăng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122668]Nguyễn Thái Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122667]Đỗ Anh Dũng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,68.75%,0%,0%,0,57.1429%,57.14%,57.14%,0,76%,0%,16,28,28,16,16,0,16,16,0,0,0%,0,0%,0VND,0,0,0
+[122666]Trương Thế Nhã,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,38.0952%,35.71%,35.71%,0,48.08%,0%,15,42,42,15,15,0,15,15,1,1,0%,0,0%,0VND,0,0,0
+[122665]Đinh Quang Trường,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122664]Lê Văn Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,88.8889%,0%,0%,0,27.027%,24.32%,24.32%,0,69.89%,0%,9,37,37,9,9,0,9,9,1,1,0%,0,0%,0VND,0,0,0
+[122663]Lý Minh Quang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122662]Tăng Nghĩa Hùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,60%,0%,0%,0,13.8889%,13.89%,13.89%,0,63.16%,0%,5,36,36,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[122661]Đỗ Ngọc Khánh Duy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122660]Trần tấn hải,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,20.6897%,17.24%,17.24%,0,17.24%,0%,5,29,29,5,5,0,5,5,1,1,0%,0,0%,0VND,0,0,0
+[122659]Nguyễn Ngọc Lâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122658]Cao Nguyễn Đình Bảo,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122458]Huỳnh Long Vũ,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80.7692%,0%,0%,0,86.6667%,86.67%,86.67%,0,86.67%,0%,26,30,30,26,26,0,26,26,0,0,0%,0,0%,0VND,0,0,0
+[122457]Nguyễn Trần Phước Hiệp,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122456]Đặng Trọng Nhân,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,71.4286%,0%,0%,0,22.5806%,22.58%,22.58%,0,67.11%,0%,7,31,31,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[122455]Trần Công Quỳnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,7.6923%,7.69%,7.69%,0,28%,0%,3,39,39,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[122454]Nguyễn Bảo Lộc,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,4.7619%,4.76%,4.76%,0,51.04%,0%,2,42,42,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[122453]Mai Ngọc Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,75%,0%,0%,0,33.3333%,33.33%,33.33%,0,60.32%,0%,12,36,36,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[122452]Nguyễn Đức Lăng,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,80%,0%,0%,0,50%,50%,50%,0,85.25%,0%,5,10,10,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[122451]Đặng Trần Thanh Tùng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122450]Đinh Hoàng Phúc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,44.44%,0%,0,35,35,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122449]Nguyễn trí tân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122448]Nguyễn Gia Hân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122447]Cao Trí Đạt,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122446]Lý Nhựt Quang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122445]Lê Trần Trung Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,26.87%,0%,0,36,36,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122444]Trần Quang Trí Mẫn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122443]Tăng Thị Ngọc Ánh,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,25%,22.5%,22.5%,0,22.5%,0%,9,40,40,9,9,0,9,9,1,1,0%,0,0%,0VND,0,0,0
+[122442]Nguyễn Đăng Công,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122441]Bành Văn Tiền,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122440]Trần Nguyễn Minh Nhựt,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,47.0588%,0%,0%,0,45.9459%,45.95%,45.95%,0,45.95%,0%,17,37,37,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[122250]Trương Công Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,78.18%,0%,0,10,10,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122212]Nguyễn Thanh Long,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122189]NGUYỄN VƯƠNG THỊNH,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122188]Nguyễn Hiểu Trí,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,69.01%,0%,0,22,22,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122187]Dư Nhựt Minh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122186]Nguyễn Tấn Lộc,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122185]Phan Hoàng Lâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122184]Trịnh Ngọc Nhi,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122183]Trần quốc huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122182]Lê Khắc Trường Nhân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122181]Lê Minh Lợi,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,90.9091%,0%,0%,0,26.8293%,26.83%,26.83%,0,48.28%,0%,11,41,41,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[122180]Đỗ Hoài Bảo,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122094]Võ Hoài Thương,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122081]Nguyễn Hoàng Tâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122080]Thôi Vĩnh Quyền,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122079]Nguyễn Long Châu,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122078]Huỳnh Kim Thành,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122077]Lương Sỹ Hùng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122075]Nguyễn Tấn Lộc,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122074]Lê Văn Bản,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122073]Đỗ Minh Đạt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122072]Trần Quốc Tuấn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122071]Võ Hoàng Kiệt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122070]Nguyễn Trọng Duy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,5.4054%,5.41%,5.41%,0,5.41%,0%,2,37,37,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[122069]Lâm Tài Có,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122068]Phạm Hữu Nghĩa,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122067]Bùi Tấn Vỹ,2WH_SDD,Inhouse-Contractor,HCM FTE,,100%,0,100%,0%,0%,0,20%,20%,20%,0,66.67%,0%,1,5,5,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[122066]Huỳnh Đăng Anh Khoa,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122065]Bùi Minh Thuận,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[122064]Nguyễn Trường Giang,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121897]Trần Minh Nghĩa,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121896]Lê Hoài Linh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121895]Trần Minh Khôi,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121894]Nguyễn Thượng Trí,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,70%,0%,0%,0,28.5714%,28.57%,28.57%,0,63.33%,0%,10,35,35,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[121893]Lê Sơn Phát,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121892]Nguyễn Đình Khánh Hoàng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,25.8065%,25.81%,25.81%,0,25.81%,0%,8,31,31,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[121891]Nguyễn Hoàng Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121890]Trịnh Lê Minh Quân,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121889]Đỗ Đình Tuân,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,28.5714%,28.57%,0%,0,28.57%,0%,0,0,7,0,0,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[121888]Nguyễn Anh Kiệt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121887]Trần Phương Linh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,80%,0%,0%,0,22.7273%,22.73%,22.73%,0,22.73%,0%,5,22,22,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[121886]Nguyễn Xuân Hoàng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,80%,0%,0%,0,100%,100%,100%,0,100%,0%,10,10,10,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[121885]Huỳnh Trần Tuấn Phát,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121884]Nguyễn Kim Nghi,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121883]Nguyễn Chí Cường,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121882]Nguyễn Huỳnh Bách Vỹ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121881]Đỗ Phước Hậu,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,64.7059%,0%,0%,0,33.3333%,33.33%,33.33%,0,66.41%,0%,17,51,51,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[121880]Cao Hoài Danh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121879]Quách Nguyễn Thanh Hiếu,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,83.3333%,0%,0%,0,27.2727%,27.27%,27.27%,0,27.27%,0%,6,22,22,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[121878]Trần Nguyễn Huy Hoàng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,6.8182%,6.82%,6.82%,0,36.36%,0%,3,44,44,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[121877]Nguyễn Thảo Nguyên,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121734]Lâm Văn Thuận,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121733]Dương Đức Trung,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121732]Nguyễn Minh Thanh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121731]Nguyễn Văn Thuận,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121709]Nguyễn Thanh Bình,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,91.6667%,0%,0%,0,100%,100%,100%,0,100%,0%,12,12,12,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[121708]Hoàng Văn Phong,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121707]Trần Phong Phú,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121706]Trịnh Dương Châu,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121705]Nguyễn Hoàng Phi Hùng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,98.85%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121704]Trương Văn Sang,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121703]Lê Hải Nghĩa,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121702]Trần Minh Chánh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,72.7273%,0%,0%,0,84.6154%,84.62%,84.62%,0,84.62%,0%,11,13,13,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[121701]Lương Thành Đạt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121700]Nguyễn Tấn Đạt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,16.6667%,16.67%,16.67%,0,73.68%,0%,2,12,12,2,2,0,2,2,0,0,0%,0,0%,0VND,0,0,0
+[121446]Nguyễn Văn Định,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121445]Trần Lê Như Bình,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121444]Nguyễn Vũ Kim Quang,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,44.4444%,0%,0%,0,37.5%,37.5%,37.5%,0,75.21%,0%,9,24,24,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[121383]Huỳnh Thanh Tuấn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121382]Nguyễn Thành Lập,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,89.4737%,0%,0%,0,82.6087%,82.61%,82.61%,0,82.61%,0%,19,23,23,19,19,0,19,19,0,0,0%,0,0%,0VND,0,0,0
+[121381]Đỗ Hữu Thọ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121380]Nguyễn Nhựt Hào,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121379]Ngô Tiến Dũng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121378]Nguyễn Tiến Minh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,42.8571%,0%,0%,0,38.8889%,38.89%,38.89%,0,38.89%,0%,7,18,18,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[121377]Lê Võ Hoàng Tuấn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121376]Lưu Thành Công,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121375]Trần Ngọc Bảo Trân,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121374]Nguyễn Tấn Hùng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121373]Đặng Trọng Tài,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121372]Võ Tấn Đạt,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121371]Nguyễn Hoàng Vũ,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121370]Phan Thiện Tâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121369]Lê Quốc Nam,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,75%,0%,0%,0,100%,100%,100%,0,100%,0%,16,16,16,16,16,0,16,16,0,0,0%,0,0%,0VND,0,0,0
+[121368]Nguyễn Trọng Phi,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121367]Âu Gia Quân,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121225]Trần Tấn Cường,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,5.8824%,0%,0%,0,0%,0%,0,17,17,0,0,0,0,0,1,1,0%,0,0%,0VND,0,0,0
+[121224]Trương Văn Hồng Lên,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121223]Nguyễn Bá Thanh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121222]Lý Vĩnh Quang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121221]Nguyễn Minh Duy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121220]Hồ Văn Út Nam,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121219]Lê Hoàng Huy Nam,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121216]Nguyễn Hồng Phúc,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121215]Hàng Lâm Trọng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121214]Phạm Quang Vinh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121213]Lê Đức Hải,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121212]Trần Quang Trực,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121211]Nguyễn Hoàng Ánh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,27.03%,0%,0,27,27,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121210]Phan Bảo Huy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121209]Văn Phú Long,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121208]Đỗ Hòa Nhuận,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121034]Nguyễn Hoàng Tùng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[121033]Phạm Quốc Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120902]Trần Ngọc Quốc Minh,2WH_SDD,Part time SDD,HCM FTE,,100%,0,75%,0%,0%,0,13.8889%,11.11%,11.11%,0,11.11%,0%,4,36,36,4,4,0,4,4,1,1,0%,0,0%,0VND,0,0,0
+[120901]Lê Quang Hùng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120900]Tăng Vĩ Kiệt,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120899]Ngô Quốc Trung,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,100%,100%,100%,0,100%,0%,0,1,1,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[120898]Nguyễn Xuân Phát,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120897]Nguyễn Linh Bằng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120896]Lương Anh Tài,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120895]LÝ ĐÌNH QUÂN,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120894]Trần Tấn Phát,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120893]Võ Thanh Hiển,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,93.3333%,0%,0%,0,68.1818%,68.18%,68.18%,0,75%,0%,15,22,22,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[120892]Nguyễn Duy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120891]Phòng Đạt Duy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,85.71%,0,71.4286%,0%,0%,0,56.25%,43.75%,43.75%,0,43.75%,0%,6,16,16,7,7,0,7,7,2,3,0%,0,0%,0VND,0,0,0
+[120733]Đào Thuận Khang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120732]Nguyễn Huỳnh Trung Hiếu,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120731]Nguyễn Trung Hiếu,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120730]Huỳnh Ngô Tuấn Kiệt,2WH_SDD,Part time SDD,HCM FTE,,100%,0,66.6667%,0%,0%,0,9.375%,9.38%,9.38%,0,9.38%,0%,3,32,32,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[120729]Nguyễn Trầm Hoàng Anh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120728]Nguyễn Thành Vinh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120727]Đỗ Hồng Tâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120725]Lê Đại Hưng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,70%,0%,0%,0,48.1481%,37.04%,37.04%,0,55.1%,0%,10,27,27,10,10,0,10,10,3,3,0%,0,0%,0VND,0,0,0
+[120724]Nguyễn Trọng Thành,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,80.9524%,0%,0%,0,39.6226%,39.62%,39.62%,0,57.78%,0%,21,53,53,21,21,0,21,21,0,0,0%,0,0%,0VND,0,0,0
+[120723]Châu Văn Thuận,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,57.1429%,0%,0%,0,68.1818%,63.64%,63.64%,0,84.21%,0%,14,22,22,14,14,0,14,14,1,1,0%,0,0%,0VND,0,0,0
+[120722]Trần Duy Bảo,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,88.2353%,0%,0%,0,77.2727%,77.27%,77.27%,0,77.27%,0%,17,22,22,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[120721]Lê Kim Nguyên,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120408]Trần Vĩnh Phát,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120407]Nguyễn Trường Vỹ,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120406]Võ Thành Luân,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120405]Phạm Tuấn Phúc,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,62.5%,0%,0%,0,53.3333%,53.33%,53.33%,0,53.33%,0%,8,15,15,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[120404]TRẦN XUÂN DŨNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,3.4483%,0%,0%,0,0%,0%,0,29,29,0,0,0,0,0,1,1,0%,0,0%,0VND,0,0,0
+[120403]Nguyễn Anh Kiệt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120402]Nguyễn Phước Hồng Nhân,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120269]Lâm Tấn Đạt,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120268]Nin Tuấn Vinh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120267]Lưu Phát,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120266]Vương Kim Lân,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,53.06%,0%,0,46,46,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120120]Đỗ Lê Trí,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120119]Cao Quốc Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120118]Vương Kim Lân,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120117]Đỗ Quang Huy,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120116]Vũ Vinh Sang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120113]Võ Hữu Toàn Trang,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,33.3333%,0%,0%,0,56.25%,56.25%,56.25%,0,56.25%,0%,9,16,16,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[120112]Lê Ngọc Khôi Nguyên,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,3.7037%,3.7%,3.7%,0,3.7%,0%,1,27,27,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[120111]LÊ NGUYỄN KHANG AN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120110]Nguyễn Tấn Phát,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[120109]Tăng Hồng Ánh Phát,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,61.1111%,0%,0%,0,52.9412%,52.94%,52.94%,0,52.94%,0%,18,34,34,18,18,0,18,18,0,0,0%,0,0%,0VND,0,0,0
+[119864]Lý Hảo Hạn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119776]Trần Văn Thương,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119775]Nguyễn Thị Kim Anh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119727]Nguyễn Văn An,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119726]Huỳnh Anh Khoa,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119725]Vũ Nguyễn Thế Sơn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119724]Nguyễn Mậu Trung,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119723]Ngô Minh Quang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119722]Lê Hoàng Phước,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119721]Huỳnh Tấn Phú,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119720]Nguyễn Quốc Tuấn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119719]Huỳnh Ngọc Mỹ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119718]Nguyễn Vĩnh Sơn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119717]Trương Đình Đức,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,0%,0%,0%,0,1.5873%,1.59%,1.59%,0,8.82%,0%,1,63,63,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[119538]Lê Đặng Phú Lộc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119534]Nguyễn Tấn Giàu,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119533]Võ Anh Khoa,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,81.8182%,0%,0%,0,48.8889%,48.89%,48.89%,0,63.49%,0%,22,45,45,22,22,0,22,22,0,0,0%,0,0%,0VND,0,0,0
+[119532]Lê Đại Phúc,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,23.44%,0%,0,45,45,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119330]Nguyễn Quang Vinh,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119301]Lữ Thanh Phúc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119300]Lê Minh Thông,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119172]Nguyễn Hoàng Thuận,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,55.5556%,0%,0%,0,100%,100%,100%,0,100%,0%,9,9,9,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[119171]Phạm Trương Hùng Cường,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119170]Lâm Quốc Hùng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119169]Đoàn Minh Phúc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119168]Huỳnh Tấn Huệ Hải,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119089]Lương Quốc Trung,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119088]Võ Thanh Sang,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119087]Lê Minh Quí,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119086]Lê Anh Tuấn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,89.57%,0%,0,17,17,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[119085]Phạm Thiên Ân,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118792]Lê Nguyễn Ngọc Nga,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118787]Nguyễn Đình Đức Mạnh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,64.7059%,0%,0%,0,29.8246%,29.82%,29.82%,0,57.8%,0%,17,57,57,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[118552]Lục Tiến Lộc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118551]Nguyễn Hà Nam,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118550]Hoàng Tấn Lộc,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118549]Phạm Tú Nhựt,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118547]LÊ VĂN HÙNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,94.7368%,94.74%,94.74%,0,95.24%,0%,18,19,19,18,18,0,18,18,0,0,0%,0,0%,0VND,0,0,0
+[118546]NGUYỄN THÀNH ĐẠT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,92.31%,0,84.6154%,0%,0%,0,81.25%,81.25%,81.25%,0,81.25%,0%,12,16,16,13,13,0,13,13,0,0,0%,0,0%,0VND,0,0,0
+[118545]NGUYỄN NHẬT PHƯƠNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,59.41%,0%,0,36,36,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118311]Nguyễn Thanh Tâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118310]Trần Thái Chính,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118302]Trang Gia Long,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118301]Bạch Văn Phương,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118300]Nguyễn Quang Khánh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118299]PHAN VĂN HƯNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118298]Phan Văn Quang,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[118297]BỬU VĨNH BẢO LONG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117916]Phạm Tấn Sáng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117915]Đặng Hoàng Vũ,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117914]TRẦN THỊ TUYẾT VÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117913]BÙI QUANG THÁI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,90.9091%,0%,0%,0,36.6667%,36.67%,36.67%,0,76.04%,0%,11,30,30,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[117912]LÝ TUẤN HỌC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,41.6667%,0%,0%,0,92.3077%,92.31%,92.31%,0,94.12%,0%,12,13,13,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[117911]TRẦN TẤN ĐẠT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117910]NGUYỄN VĨNH PHƯỚC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,80%,0%,0%,0,100%,100%,100%,0,100%,0%,5,5,5,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[117909]TRANG MINH PHÚ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,76.9231%,0%,0%,0,100%,100%,100%,0,100%,0%,13,13,13,13,13,0,13,13,0,0,0%,0,0%,0VND,0,0,0
+[117908]LÊ THANH TÙNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117907]PHẠM VĂN AN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117640]NGUYỄN HỒNG SƠN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117639]LÊ ĐỨC ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,4.5455%,0%,0%,0,36.99%,0%,0,44,44,0,0,0,0,0,2,2,0%,0,0%,0VND,0,0,0
+[117638]NGUYỄN THÀNH NAM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117637]NGUYỄN CHÂU THANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,45%,0%,0%,0,86.9565%,86.96%,86.96%,0,86.96%,0%,20,23,23,20,20,0,20,20,0,0,0%,0,0%,0VND,0,0,0
+[117636]NGUYỄN NGỌC HÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,90.9091%,0%,0%,0,52.381%,52.38%,52.38%,0,52.38%,0%,11,21,21,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[117635]LÊ HOÀNG QUỐC VIỆT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117634]NGUYỄN NGỌC HUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117633]NGUYỄN NGỌC TÀI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117632]Trần Minh Tiến,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117631]LÊ TIẾN KHẢI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,60%,0%,0%,0,13.1579%,13.16%,13.16%,0,45.16%,0%,5,38,38,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[117366]Trần Văn Thuận,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117365]NGUYỄN ANH THY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117363]ĐẶNG XUÂN THÔNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,78.5714%,0%,0%,0,51.8519%,51.85%,51.85%,0,71.15%,0%,14,27,27,14,14,0,14,14,0,0,0%,0,0%,0VND,0,0,0
+[117362]TRƯƠNG NGỌC TIẾN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117115]Nguyễn Quang Duy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117114]Lê Minh Chiến,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[117113]HUỲNH VĂN MINH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116946]Lê Phi Trọng,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116931]Mai Thanh Toàn,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116923]Nguyễn Văn Lâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116922]HUỲNH THANH SANG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116921]Thái Minh Tài,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116920]ĐOÀN NHỰT TRƯỜNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,94.7368%,0%,0%,0,100%,100%,100%,0,100%,0%,19,19,19,19,19,0,19,19,0,0,0%,0,0%,0VND,0,0,0
+[116834]Nguyễn Bá Anh Tuấn,2WH_SDD,Part time SDD,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116833]Lê Công Tấn Tài,2WH_SDD,Part time SDD,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116832]Nguyễn Gia Huy,2WH_SDD,Part time SDD,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116831]Trần Duy Hoàng,2WH_SDD,Part time SDD,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116830]Đỗ Hồng Tâm,2WH_SDD,Part time SDD,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116710]TRẦN QUỐC PHONG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,92.31%,0,69.2308%,0%,0%,0,31.7073%,31.71%,31.71%,0,68.87%,0%,12,41,41,13,13,0,13,13,0,1,0%,0,0%,0VND,0,0,0
+[116709]HUỲNH GIA VĨ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,85.7143%,0%,0%,0,34.4262%,34.43%,34.43%,0,34.43%,0%,21,61,61,21,21,0,21,21,0,0,0%,0,0%,0VND,0,0,0
+[116708]Huỳnh Quang Dũng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116707]NGUYỄN VĂN KIỆT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,70%,0%,0%,0,44%,40%,40%,0,64.58%,0%,10,25,25,10,10,0,10,10,1,1,0%,0,0%,0VND,0,0,0
+[116706]Lê Phi Trọng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116705]PHAN NGUYỄN TRỌNG KHÁNH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,27.91%,0%,0,29,29,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116704]NGUYỄN DUY VƯƠNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,60%,0%,0%,0,42.5532%,42.55%,42.55%,0,42.55%,0%,20,47,47,20,20,0,20,20,0,0,0%,0,0%,0VND,0,0,0
+[116703]Đỗ Hồng Tâm,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116702]NGUYỄN VŨ DUY TUẤN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,71.4286%,0%,0%,0,33.3333%,33.33%,33.33%,0,33.33%,0%,14,42,42,14,14,0,14,14,0,0,0%,0,0%,0VND,0,0,0
+[116701]Lê Công Tấn Tài,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116700]Trần Duy Hoàng,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116699]Nguyễn Gia Huy,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116698]LƯU KIẾN HANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,60%,0%,0,32,32,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116697]TRƯƠNG HỮU HÀ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116696]VÕ NGUYỄN MINH TRÍ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116695]Nguyễn Tài Hồ Vĩ,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116429]LÂM HUỲNH BẢO PHONG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,86.6667%,0%,0%,0,34.8837%,34.88%,34.88%,0,71.43%,0%,15,43,43,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[116428]NGUYỄN TRỌNG BÌNH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,83.3333%,0%,0%,0,100%,96%,95.65%,0,97.18%,0%,22,23,25,22,22,0,24,24,0,0,0%,0,0%,0VND,0,0,0
+[116427]Trần Cẩm Ngọc,2WH_SDD,Inhouse-Contractor,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116426]Nguyễn Bá Anh Tuấn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116425]Lê Thành Công,2WH_SDD,Inhouse-Contractor,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116424]LÝ QUỐC HUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116423]Mai Thanh Toàn,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116422]THIÊU HƯNG TÀI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,30%,0%,0%,0,66.6667%,66.67%,66.67%,0,78.38%,0%,10,15,15,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[116421]NGUYỄN ĐÌNH NHẬT MINH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,44%,0%,0,42,42,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116420]PHAN BÁ LỘC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,85.7143%,0%,0%,0,36.3636%,31.82%,31.82%,0,69.39%,0%,7,22,22,7,7,0,7,7,1,1,0%,0,0%,0VND,0,0,0
+[116419]Phạm Hoàng Cao Trí,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116021]DƯƠNG TẤT LỄ MINH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,95.8333%,0%,0%,0,80%,80%,80%,0,91.95%,0%,24,30,30,24,24,0,24,24,0,0,0%,0,0%,0VND,0,0,0
+[116020]TRẦN ĐĂNG TRỌNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,73.39%,0%,0,24,24,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116019]PHAN ĐÌNH HUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,75%,0%,0%,0,90.625%,87.5%,87.5%,0,94.94%,0%,28,32,32,28,28,0,28,28,1,1,0%,0,0%,0VND,0,0,0
+[116018]Nguyễn Kỳ Quang Vinh,2WH_SDD,Inhouse-Contractor,RXL_Newriders_19092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116017]Châu Trọng Tuyển,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116016]VÕ CÔNG BẠCH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,92.8571%,0%,0%,0,38.0952%,33.33%,33.33%,0,61.64%,0%,14,42,42,14,14,0,14,14,2,2,0%,0,0%,0VND,0,0,0
+[116014]Nguyễn Đình Đức Mạnh,2WH_SDD,Inhouse-Contractor,HCM FTE,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116013]NGUYỄN NHƯ ĐĂNG KHOA,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,32%,0%,0,51,51,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[116012]CHẮNG CHÂU CƯỜNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,88.2353%,0%,0%,0,47.5%,42.5%,42.5%,0,73.33%,0%,17,40,40,17,17,0,17,17,2,2,0%,0,0%,0VND,0,0,0
+[115699]Sỳ Quang Nam,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115698]VŨ TRƯỜNG AN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,98.48%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115697]Diệp Ánh Như,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115696]NGUYỄN HOÀNG LONG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,58.3333%,0%,0%,0,88.8889%,88.89%,88.89%,0,93.48%,0%,24,27,27,24,24,0,24,24,0,0,0%,0,0%,0VND,0,0,0
+[115695]Hồ Thanh Phát,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115694]HUỲNH VĂN NGHIÊM,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115693]ĐINH CÔNG DANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115692]LÊ HOÀI NHÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,25,25,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115690]Ngô Thanh Tiến,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115461]Lê Thành Nhân,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115460]LÊ TẤN THỌ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115459]VŨ HỒNG QUÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,92.31%,0%,0,5,5,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115458]VÕ TRỌNG NHÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,4%,4%,4%,0,56.67%,0%,1,25,25,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[115456]NGUYỄN VĂN QUỐC TRUYỀN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,54.5455%,0%,0%,0,42.3077%,42.31%,42.31%,0,70%,0%,11,26,26,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[115455]TƯỞNG TẤN DUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,83.3333%,0%,0%,0,34.2857%,34.29%,34.29%,0,34.29%,0%,12,35,35,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[115454]HOÀNG THỊ UYÊN THẢO,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,68.4211%,0%,0%,0,95%,95%,95%,0,97.37%,0%,19,20,20,19,19,0,19,19,0,0,0%,0,0%,0VND,0,0,0
+[115453]Nguyễn Quốc Hiền,2WH_SDD,Inhouse-Contractor,RXL_Ridernew_05092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115452]NGUYỄN BÙI ĐỨC QUÝ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,84%,0%,0%,0,83.3333%,83.33%,83.33%,0,91.8%,0%,25,30,30,25,25,0,25,25,0,0,0%,0,0%,0VND,0,0,0
+[115451]Nguyễn Hoàng Đạt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115450]Hà Cẩm Toàn,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115449]NGUYỄN CẢNH NAM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,82.3529%,0%,0%,0,65.3846%,65.38%,65.38%,0,83.02%,0%,17,26,26,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[115448]TRẦN QUỐC THIỆN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,74.0741%,0%,0%,0,77.1429%,77.14%,77.14%,0,89.29%,0%,27,35,35,27,27,0,27,27,0,0,0%,0,0%,0VND,0,0,0
+[115447]Lâm Thanh Trường,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115446]NGUYỄN TUẤN THÀNH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115445]NGUYỄN SỸ ĐAN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,84.2105%,0%,0%,0,48.7179%,48.72%,48.72%,0,48.72%,0%,19,39,39,19,19,0,19,19,0,0,0%,0,0%,0VND,0,0,0
+[115444]BÙI QUỐC HÒA,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,60%,0%,0%,0,27.7778%,27.78%,27.78%,0,73.74%,0%,10,36,36,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[115252]Nguyễn Mạnh Hưng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115251]TRẦN NHÂN TÔN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,50%,0%,0%,0,16.6667%,16.67%,16.67%,0,62.69%,0%,4,24,24,4,4,0,4,4,0,0,0%,0,0%,0VND,0,0,0
+[115250]TRÁC QUỐC ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,2.381%,2.38%,2.38%,0,41.89%,0%,1,42,42,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[115249]NGUYỄN VƯƠNG QUỐC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,81.82%,0%,0,14,16,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115248]LÊ KIM HÙNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115247]LÝ PHƯỚC CHƯƠNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115245]PHẠM THANH HÙNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,20%,0%,0%,0,90.9091%,90.91%,0%,0,97.06%,0%,0,0,11,0,0,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[115244]Nguyễn Hồng Sơn,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115118]Nguyễn Tân Kỷ Nguyên,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115116]NGUYỄN MẠNH HÙNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,39.51%,0%,0,47,47,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115115]HUỲNH QUANG NHÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,2.381%,0%,0%,0,46.3%,0%,0,42,42,0,0,0,0,0,1,1,0%,0,0%,0VND,0,0,0
+[115114]Dương Thế Trọng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115113]CHÂU KHẮC SANG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,9,9,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115112]Trương Tấn Hưng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115111]NGUYỄN HOÀNG ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115110]CAO TRỌNG SANG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,10%,10%,10%,0,35.29%,0%,6,60,60,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[115109]Châu Thanh Dũng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115108]NGUYỄN THỨC TRUNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,94.34%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[115106]NGUYỄN TRẦN GIA KHÁNH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,50%,0%,0%,0,20.6897%,20.69%,20.69%,0,45.35%,0%,12,58,58,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[115029]Châu Vân Hải,2WH_SDD,Inhouse-Contractor,RXL_HCM_Rider_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114920]Nguyễn Văn Tình,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114919]ÂU DƯƠNG MINH TRIẾT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,75%,0%,0%,0,17.8082%,16.44%,16.44%,0,28.24%,0%,12,73,73,12,12,0,12,12,1,1,0%,0,0%,0VND,0,0,0
+[114918]TÔ ANH TÀI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114917]Phạm Minh Cường,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114916]DIỆP NGUYỄN HƯNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,74.44%,0%,0,34,34,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114915]HỒ PHẠM THANH LỢI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,80%,70%,70%,0,70%,0%,14,20,20,14,14,0,14,14,2,2,0%,0,0%,0VND,0,0,0
+[114914]HUỲNH NGỌC THUẬN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,90.9091%,0%,0%,0,85.7143%,78.57%,78.57%,0,78.57%,0%,11,14,14,11,11,0,11,11,1,1,0%,0,0%,0VND,0,0,0
+[114913]TRẦN PHÚ QUÍ,2WH_SDD,Inhouse-Contractor,RXL_Ridernew_05092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114912]TRẦN HOÀI VŨ LINH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,83.3333%,0%,0%,0,54.5455%,54.55%,54.55%,0,56.52%,0%,12,22,22,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[114911]NGUYỄN TUẤN THANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,44.4444%,0%,0%,0,26.4706%,26.47%,26.47%,0,71.26%,0%,9,34,34,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[114910]Quách Kim Toàn,2WH_SDD,Inhouse-Contractor,RXL_Ridernew_05092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114909]HUỲNH THANH THƯƠNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114753]LẠI NGỌC PHÚ TÚC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114752]NGUYỄN PHAN BẢO TRÍ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,13.5135%,10.81%,10.81%,0,60%,0%,4,37,37,4,4,0,4,4,1,1,0%,0,0%,0VND,0,0,0
+[114751]NGUYỄN TIẾN HOÀNG ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114750]Ngô Văn Lộc,2WH_SDD,Inhouse-Contractor,RXL_Ridernew_05092025,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114749]NGUYỄN MINH HUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,75%,0%,0%,0,29.6296%,29.63%,29.63%,0,61.22%,0%,8,27,27,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[114748]ĐÀO NGỌC HIẾU,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,98.94%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114747]Trần Minh Nhựt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114746]HOÀNG TÙNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,61.1111%,0%,0%,0,36%,36%,36%,0,36%,0%,18,50,50,18,18,0,18,18,0,0,0%,0,0%,0VND,0,0,0
+[114547]TRẦN PHƯỚC SANG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,87.5%,0%,0%,0,16.6667%,16.67%,16.67%,0,16.67%,0%,8,48,48,8,8,0,8,8,0,0,0%,0,0%,0VND,0,0,0
+[114475]PHAN TRUNG HẬU,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114473]LÊ VÕ ANH HUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114472]LÊ ANH KIỆT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,2.7778%,2.78%,2.78%,0,47.14%,0%,1,36,36,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[114471]NGUYỄN VĂN THẢO,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,92.8571%,0%,0%,0,33.3333%,32.56%,30.95%,0,67.74%,0%,13,42,43,13,13,0,14,14,0,0,0%,0,0%,0VND,0,0,0
+[114470]TRẦN DUY NAM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,72.7273%,0%,0%,0,61.1111%,61.11%,61.11%,0,61.11%,0%,11,18,18,11,11,0,11,11,0,0,0%,0,0%,0VND,0,0,0
+[114469]LÊ THỊ THU HẰNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,34.2857%,34.29%,34.29%,0,61.67%,0%,12,35,35,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[114468]NGUYỄN NGỌC THỌ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,8.3333%,8.33%,8.33%,0,8.33%,0%,3,36,36,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[114467]HỒNG HẢI TRIỀU,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114466]NGUYỄN HỮU CƯỜNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,71.4286%,0%,0%,0,41.1765%,41.18%,41.18%,0,86.75%,0%,7,17,17,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[114465]PHẠM LÊ QUỐC MINH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114464]Võ Huỳnh Hữu Tài,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114463]ĐÀO NGỌC XUÂN THÀNH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,77.55%,0%,0,25,25,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114462]LẠI PHƯỚC THẮNG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,55.5556%,0%,0%,0,47.3684%,47.37%,47.37%,0,51.48%,0%,9,19,19,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[114461]TRƯƠNG HOÀNG MINH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,7.6923%,7.69%,7.69%,0,57.14%,0%,3,39,39,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[114339]Nguyễn Anh Khoa,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114338]Huỳnh Công Bảo,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114337]TRẦN QUANG HIẾU,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,4.4118%,4.41%,4.41%,0,38.89%,0%,3,68,68,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[114336]LƯU VINH PHÁT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,70%,0%,0%,0,71.4286%,71.43%,71.43%,0,90.74%,0%,10,14,14,10,10,0,10,10,0,0,0%,0,0%,0VND,0,0,0
+[114335]PHẠM VĂN SƠN EM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,100%,0%,0,100%,0%,0,0,1,0,0,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[114334]LƯU KIM SƠN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,80%,0%,0%,0,10.6383%,10.64%,10.64%,0,54.26%,0%,5,47,47,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[114333]Trần Quang Thái,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114228]Nguyễn Văn Chiến,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114227]Lê Quốc Bảo,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114226]PHAN QUỐC THẨM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,78.2609%,0%,0%,0,55.5556%,51.11%,51.11%,0,56%,0%,23,45,45,23,23,0,23,23,2,2,0%,0,0%,0VND,0,0,0
+[114225]NGUYỄN TRỊNH THĂNG LONG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,32,32,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114224]NGUYỄN THỊ PHƯƠNG VY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,91.3%,0,60.8696%,0%,0%,0,100%,100%,100%,0,100%,0%,21,23,23,23,23,0,23,23,0,1,0%,0,0%,0VND,0,0,0
+[114223]TRƯƠNG VÕ TÀI TRÍ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,83.3333%,0%,0%,0,25%,25%,25%,0,25%,0%,6,24,24,6,6,0,6,6,0,0,0%,0,0%,0VND,0,0,0
+[114222]TRẦN HOÀNG TÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,0%,0%,0%,0,2.8571%,2.86%,2.86%,0,48.48%,0%,1,35,35,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[114221]LÊ DUY KHANG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,17.2414%,17.24%,17.24%,0,63.38%,0%,5,29,29,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[114104]Trần Văn Hải,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114103]Võ Thanh Tuấn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114102]HỒ VĨNH HÀO,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,41.67%,0%,0,28,28,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114101]ĐÀO XUÂN ĐIỀN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[114100]NGUYỄN THANH TÚ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,1.6129%,1.61%,1.61%,0,1.61%,0%,1,62,62,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[113957]NGÔ NGUYỄN DUY ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,75%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113903]Lê Hồng Phát,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113902]Lê Phương Kiều,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,38,38,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113901]TRẦN VĂN QUYỀN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,71.4286%,0%,0%,0,17.9487%,17.95%,17.95%,0,70.08%,0%,7,39,39,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[113900]TRƯƠNG PHÚ NHÂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,68.4211%,57.89%,57.89%,0,81.82%,0%,11,19,19,11,11,0,11,11,2,2,0%,0,0%,0VND,0,0,0
+[113899]LÂM PHÚC HẬU,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,3.5714%,3.57%,3.57%,0,46%,0%,1,28,28,1,1,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[113897]Lê Thị Linh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113896]LÝ TRÍ VĂN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,65.2174%,0%,0%,0,100%,100%,100%,0,83.02%,0%,23,23,23,23,23,0,23,23,0,0,0%,0,0%,0VND,0,0,0
+[113895]PHẠM NHẬT HÀN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113894]PHAN TRẦN NGỌC ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113711]Trương Long Hải,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,57.1429%,0%,0%,0,17.9487%,17.95%,17.95%,0,47.54%,0%,7,39,39,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[113707]Huỳnh Tấn Phát,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,40%,0%,0%,0,42.8571%,35.71%,35.71%,0,35.71%,0%,5,14,14,5,5,0,5,5,1,1,0%,0,0%,0VND,0,0,0
+[113706]Đỗ Gia Huy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113705]Trần Lê Hải Đăng,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113704]Phan Nguyễn Nhật Quỳnh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113703]Kiều Phi Long,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,5.5556%,5.56%,0%,0,72.22%,0%,0,17,18,0,0,0,1,1,0,0,0%,0,0%,0VND,0,0,0
+[113701]Nguyễn Chi Bảo,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,77.7778%,0%,0%,0,15%,15%,15%,0,34.62%,0%,9,60,60,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[113699]LƯƠNG CẨM THÁI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113697]NGUYỄN VĂN VƯỜN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113696]NGUYỄN MINH KHÔI,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,68.75%,0%,0%,0,31.3725%,31.37%,31.37%,0,49.28%,0%,16,51,51,16,16,0,16,16,0,0,0%,0,0%,0VND,0,0,0
+[113695]NGUYỄN ANH HÀO,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,75%,0%,0%,0,40.4762%,38.1%,38.1%,0,58.11%,0%,16,42,42,16,16,0,16,16,1,1,0%,0,0%,0VND,0,0,0
+[113694]DƯƠNG HỒNG SƠN,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113693]NGUYỄN TIẾN TRỌNG ANH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,79.89%,0%,0,15,15,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113691]NGUYỄN HOÀNG HUY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,93.3333%,0%,0%,0,71.4286%,71.43%,71.43%,0,82.86%,0%,15,21,21,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[113517]NGUYỄN NGỌC DIỆP,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113516]Nguyễn Trí Khang,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113509]Nguyễn Minh Anh Tuấn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,75%,0%,0%,0,100%,88.89%,88.89%,0,95.59%,0%,16,18,18,16,16,0,16,16,2,2,0%,0,0%,0VND,0,0,0
+[113506]Nguyễn Quốc Việt,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,93.33%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113505]Phan Trọng Hiếu,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,21.7391%,21.74%,21.74%,0,21.74%,0%,5,23,23,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[113504]Trần Nguyễn Quang Huy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113503]Phạm Đình Sơn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,18.75%,18.75%,18.75%,0,73.58%,0%,3,16,16,3,3,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[113502]Trương Thế Thanh Toàn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,96.2%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113501]Vũ Thiên Triều,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,44.74%,0%,0,21,21,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113500]Võ Trần Thử,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,15.7895%,0%,0%,0,62.5%,0%,0,19,19,0,0,0,0,0,3,3,0%,0,0%,0VND,0,0,0
+[113499]Trần Đức Quý,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113498]Nguyễn Phi Long,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113497]Đỗ Chung Hải,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,68.75%,0%,0%,0,31.3725%,31.37%,31.37%,0,62.96%,0%,16,51,51,16,16,0,16,16,0,0,0%,0,0%,0VND,0,0,0
+[113496]Nguyễn Bình Minh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,27,27,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113495]Kim Trường An,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,71.4286%,0%,0%,0,14.5833%,14.58%,14.58%,0,43.24%,0%,7,48,48,7,7,0,7,7,0,0,0%,0,0%,0VND,0,0,0
+[113494]Phạm Cao Sơn,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,26.3158%,26.32%,26.32%,0,80%,0%,5,19,19,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[113493]Trần Phan Thanh Tú,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,85.7143%,0%,0%,0,64.7059%,38.89%,35.29%,0,78.69%,0%,6,17,18,6,6,0,7,7,4,4,0%,0,0%,0VND,0,0,0
+[113492]Đặng Minh Thống,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,77.78%,0%,0,12,12,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113491]Nguyễn Trung Hiếu,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113490]Lê Thành Mãi,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,92.3077%,0%,0%,0,35%,32.5%,32.5%,0,75%,0%,13,40,40,13,13,0,13,13,1,1,0%,0,0%,0VND,0,0,0
+[113489]Đoàn Văn An,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,88.8889%,0%,0%,0,31.4286%,25.71%,25.71%,0,25.71%,0%,9,35,35,9,9,0,9,9,2,2,0%,0,0%,0VND,0,0,0
+[113488]Triệu Thanh Cao,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113487]Võ Đức Hải,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113485]Châu Gia Huy,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113484]Trương Hữu Lâm,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,92.86%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113482]Võ Thành Danh,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,100%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113481]Lâm Văn Bính,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113480]Trần Minh Thép,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,25%,0%,0%,0,30.7692%,30.77%,30.77%,0,70.77%,0%,4,13,13,4,4,0,4,4,0,0,0%,0,0%,0VND,0,0,0
+[113465]NGUYỄN THANH HUY TUẤN KIỆT,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,0%,0%,0%,0,14.7059%,14.71%,14.71%,0,41.38%,0%,5,34,34,5,5,0,5,5,0,0,0%,0,0%,0VND,0,0,0
+[113464]Tô Lê Minh Quang,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113463]ĐÀO ĐỨC LỘC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,94.1176%,0%,0%,0,36.1702%,36.17%,44.74%,0,75.41%,0%,17,38,47,17,17,0,17,17,0,0,0%,0,0%,0VND,0,0,0
+[113462]TRẦN VĂN NĂM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113461]TRẦN MINH PHÚ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,58.3333%,0%,0%,0,29.2683%,29.27%,29.27%,0,29.27%,0%,12,41,41,12,12,0,12,12,0,0,0%,0,0%,0VND,0,0,0
+[113460]Phan Văn Lương,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113459]HỒ THỊ MÂY,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,66.6667%,0%,0%,0,5.4545%,5.36%,3.7%,0,48.08%,0%,2,54,56,2,2,0,3,3,0,0,0%,0,0%,0VND,0,0,0
+[113457]Ngô Minh Thành,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113456]NGUYỄN MINH ĐỨC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,50%,0%,0%,0,11.1111%,11.11%,11.43%,0,76.3%,0%,4,35,36,4,4,0,4,4,0,0,0%,0,0%,0VND,0,0,0
+[113455]LÊ TRẦN HÙNG VĨ,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,86.6667%,0%,0%,0,51.7241%,51.72%,51.72%,0,68.89%,0%,15,29,29,15,15,0,15,15,0,0,0%,0,0%,0VND,0,0,0
+[113454]NGUYỄN VĂN SANG,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[113453]LÊ THANH TÂM,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,93.3333%,0%,0%,0,39.0244%,36.59%,36.59%,0,36.59%,0%,15,41,41,15,15,0,15,15,1,1,0%,0,0%,0VND,0,0,0
+[113452]TRẦN QUANG PHÚC,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,100%,0%,0%,0,23.0769%,23.08%,23.08%,0,63.74%,0%,9,39,39,9,9,0,9,9,0,0,0%,0,0%,0VND,0,0,0
+[113451]NGUYỄN NGỌC TÌNH,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,100%,0,77.7778%,0%,0%,0,77.1429%,77.14%,77.14%,0,80.7%,0%,27,35,35,27,27,0,27,27,0,0,0%,0,0%,0VND,0,0,0
+[113450]Lê Quốc An,2WH_SDD,Inhouse-Contractor,RXL_Rider_SDD_251017,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[105409]SDD-SPXHCM02-Project,2WH_no_bonus,Inhouse-Full-time,50-HCM Go Vap/PHI,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
+[105408]SDD-SPXHCM01-Project,2WH_no_bonus,Inhouse-Full-time,50-HCM ---,,0%,0,0%,0%,0%,0,0%,0%,0%,0,0%,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%,0VND,0,0,0
